@@ -10,9 +10,9 @@ Bu sprint mücadelesi sırasında işbirliği yapmanıza izin verilmez.
 
 ### Proje Kurulumu
 
-* [ ] Bu projenyi forklayarak bir kopyasını oluşturun.
-* [ ] Reponun kendi versiyonunuzu klonlayın.
-* [ ] Commitinizi pushlayın: `git push origin main`.
+* [X] Bu projenyi forklayarak bir kopyasını oluşturun.
+* [X] Reponun kendi versiyonunuzu klonlayın.
+* [X] Commitinizi pushlayın: `git push origin main`.
 
 ## Proje Açıklaması
 
