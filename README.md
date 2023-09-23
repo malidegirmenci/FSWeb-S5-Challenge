@@ -36,7 +36,7 @@ Aşağıda listelenen minimum uygulanabilir ürün (MVP) spesifikasyonlarını k
 
 - [X] Adım 1 ve 2 `src/bileşenler/header.js` dosyasında açıklandı.
 - [X] Adım 3 ve 4 `src/bileşenler/tabs.js` dosyasında açıklandı.
-- [ ] Adım 5 ve 6 `src/bileşenler/card.js` dosyasında açıklandı.
+- [X] Adım 5 ve 6 `src/bileşenler/card.js` dosyasında açıklandı.
 
 **Önemli Notlar:**
 
